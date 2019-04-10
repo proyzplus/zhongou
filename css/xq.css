@@ -1,0 +1,17 @@
+body{background-color: #f4f4f4;}
+#box{width: 100%;height: 39px;background-color: #d8d8d8;}
+.box{width: 1200px;height: 39px;margin: auto;line-height: 39px;color: #8d8d8d;}
+#box_one{width: 1170px;height: 1383px;margin: auto;background-color: #FFFFFF;}
+.box_one_top{width: 1170px;height: 504px;/*border: 1px solid red;*/}
+.one_top{width: 1080px;height: 65px;margin: auto;margin-top: 30px;line-height: 30px;}
+.one_top p{font-size: 18px;color: #3b3b3b;font-weight: 600;}
+.ont_top{width: 1080px;height: 120px;margin: auto;margin-top: 30px;}
+.ont_top{font-size: 14px;color: #898989;}
+.ont_top ul li{margin-top: 4px;}
+.top_main{width: 1080px;height: 26px;margin: auto;margin-top: 66px;}
+.top_main span{background-color: #b5b5b5;color: #FFFFFF;font-size: 14px;}
+.main_word{width: 1080px;height: 52px;margin: auto;margin-top: 16px;font-size: 14px;color: #7b7b7b;}
+.word_bott{width: 1080px;height: 80px;margin: auto;margin-top: 26px;font-size: 14px;color: #7b7b7b;}
+.box_two_bot{width: 901px;height: 591px;margin: auto;margin-top: 20px;}
+
+  

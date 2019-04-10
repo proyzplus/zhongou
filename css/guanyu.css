@@ -1,0 +1,67 @@
+body{background-color: #f4f4f4;}
+#box{width: 100%;height: 39px;background-color: #d8d8d8;}
+.box{width: 1200px;height: 39px;margin: auto;line-height: 39px;color: #8d8d8d;}
+/*第二部分*/
+#mainb{width: 100%;height: 379px;margin: auto;background-image: url(../images/images/gy_02.png);background-size: 100% 100%;}
+/*第三部分*/
+#main_jianjie{width: 1170px;height: 420px;margin: auto;/*border: 1px solid red;*/}
+.jianjie{width: 1170px;height: 58px;/*border: 1px solid burlywood;*/background-color: #dcdcdc;}
+.jianjie ul li{width: 232px;height: 58px;/*border: 1px solid red;*/}
+.jianjie ul{display: flex;justify-content: space-between;}
+.li_one{width: 130px;height: 58px;margin: auto;color: #077e44;/*border: 1px solid blue;*/font-weight: 600;}
+.li_one_top{margin-left: 90px;}
+.li_one_main{color: #007F41;}
+.jj_main{width: 1170px;height: 360px;}
+.jj_main ul{display: flex;justify-content: space-between;}
+.r_main{width: 935px;height: 360px;/*border: 1px solid red;*/}
+.r_m_right{width: 895px;height: 302px;/*border: 1px solid red;*/margin: auto;}
+.r_m_right span{font-size: 12px;margin-top: 20px;color: #777777;}
+.abs{margin-top: 12px;color: #777777;}
+#main_fazhan{width: 1170px;height: 1844px;/*border: 1px solid blue;*/margin: auto;}
+.fazhanshi ul{display: flex;justify-content: space-between;}
+.shi_jj{width: 938px;height: 1780px;/*border: 1px solid red;*/}
+.le_shi{float: left;}
+.wors_one{margin-top: 30px; width: 610px;height: 56px;/*border: 1px solid red;*/font-size: 12px;line-height: 26px;}
+#main_rongyu{width: 1170px;height: 1208px;/*border: 1px solid red;*/margin: auto;}
+.m_rong{width: 1170px;height: 1148px;/*border: 1px solid blue;*/}
+.m_rong ul{display: flex;justify-content: space-between;}
+.img_li{width: 950px;height: 960px;}
+.bott_put{width: 200px;height: 40px;margin: auto;margin-top: 16px;}
+.bott_put button{width: 92px;height: 34px;background-color: #f4f4f4;border: 1px solid #999999;}
+#main_quanguo{width: 1170px;height: 670px;/*border: 1px solid red;*/margin: auto;}
+.qg_main ul{display: flex;justify-content: space-between;}
+.li_rig{width: 950px;height: 520px;}
+#main_news{width: 1170px;height: 640px;/*border: 1px solid red;*/margin: auto;}
+.new_mai{width: 1170px;height: 510px;/*border: 1px solid red;*/}
+.new_mai ul{display: flex;justify-content: space-between;}
+.last_s{width: 950px;height: 370px;/*border: 1px solid red;*/}
+.last_word{font-size: 12px;line-height: 30px;}
+.s_last{border: 1px solid #b6b6b6;width: 302px;height: 370px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
